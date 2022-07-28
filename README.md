@@ -1,8 +1,14 @@
 # DiviX-Public
 
-:warning: *The source code of DiviX project is private, this repository is a public and simple documentation used for my resume.*
+:warning: *The source code of DiviX project is private, this repository is a public and simple documentation used for my resume*
 
-## Presentation 
+## Supervisors
+
+**Jose Pablo Baraybar Do Carmo** : Conceiver of the project, Ph.D., anthropologist at the International Committee of the Red Cross (ICRC)-Paris Regional Delegation, Forensic Department - [Contact : jpbaraybar@icrc.org](mailto:jpbaraybar@icrc.org)
+
+**Pierre François** : Student supervisor, Ph.D, researcher and professor at INSA Lyon - [Contact : pierre.francois@insa-lyon.fr](mailto:pierre.francois@insa-lyon.fr)
+
+## Presentation
 
 DiviX project is a set of tools used for victims identification in war, migration and distaster zones accros the world.
 Initiated at INSA Lyon in collaboration with the Internation Committee of the Red Cross (based in Geneva), the DiviX project is composed of :
@@ -22,15 +28,15 @@ assist with victim traceability from discovery to disposal.
 ## Personnal work
 
 Dividoc and Divimap were started by 7 students in third-year university (from the upper promotion, in 2020) and many of the specifications were respected. The year after, my professor asked me to continue the project with 6 other students of my choice. During 3 months, I worked with other as the group leader, focusing on :
-- Correct existings bugs
-- Add new features
-- Create the web server
+- Correcting existings bugs
+- Adding new features
+- Creating the web server
 
 At the end of this, we had a solid project but not good enough to go to a production.
-Six months later (march 2022), my professor and I decided I could, alone, do a complete refactoring of the Android apps. Then I focused on :
-- Improving the programming logic
+Six months later (march 2022), I decided to do, alone and on my free time, a complete refactoring of the Android apps. Then I focused on :
+- Totally rethinking and re-implementing the programming logic of applications
 - Remodeling and implementing the UI, based on Material Design and the basic principles of the UI field
-- Suppressing warning and deprecated functions
+- Suppressing warnings and deprecated functions
 - Commenting the code and correcting bugs
 
 ## Timeline
