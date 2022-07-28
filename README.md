@@ -6,7 +6,7 @@
 
 **Jose Pablo Baraybar Do Carmo** : Conceiver of the project, Ph.D., anthropologist at the International Committee of the Red Cross (ICRC)-Paris Regional Delegation, Forensic Department - [Contact : jpbaraybar@icrc.org](mailto:jpbaraybar@icrc.org)
 
-**Pierre François** : Student supervisor, Ph.D, researcher and professor at INSA Lyon - [Contact : pierre.francois@insa-lyon.fr](mailto:pierre.francois@insa-lyon.fr)
+**Pierre François** : Student supervisor, Ph.D., researcher and professor at INSA Lyon - [Contact : pierre.francois@insa-lyon.fr](mailto:pierre.francois@insa-lyon.fr)
 
 ## Presentation
 
@@ -25,7 +25,7 @@ assist with victim traceability from discovery to disposal.
 
 - **DiviX-Server** : A web server (NodeJS, VueJS, MySQL, Docker) that collects the data gathered by the Android applications and allows to filter and sort cases (victims) by age, sex, date or location, displays the cases location on a map (OpenStreetMap) and automatically extracts password-protected archives and populate the database. This sub-project is no longer maintened and was never deployed because due to potential security issues that were not examined yet.
 
-## Personnal work
+## Personal contribution
 
 Dividoc and Divimap were started by 7 students in third-year university (from the upper promotion, in 2020) and many of the specifications were respected. The year after, my professor asked me to continue the project with 6 other students of my choice. During 3 months, I worked with other as the group leader, focusing on :
 - Correcting existings bugs
