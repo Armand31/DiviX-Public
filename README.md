@@ -1,2 +1,38 @@
 # DiviX-Public
-Brief public documentation of DiviX Project which is composed of two Android applications used for victims identification in war and migration zones
+
+:warning: *The source code of DiviX project is private, this repository is a public and simple documentation used for my resume.*
+
+## Presentation 
+
+DiviX project is a set of tools used for victims identification in war, migration and distaster zones accros the world.
+Initiated at INSA Lyon in collaboration with the Internation Committee of the Red Cross (based in Geneva), the DiviX project is composed of :
+
+- **Dividoc (Disaster Victim Documentation)** : An Android app (XML and Java) designed to assist with the documentation of dead bodies
+in the field. The application produces a password-secured archive containing basic
+information collected by the first responder, namely a set of pictures of the body associated
+with its geolocation, as well as a unique identification tag allowing correlation with the
+information registered during the burial/disposal process.
+
+- **Divimap (Disaster Victim Mapping)** : An Android app (XML and Java) which records the case number prior to disposal and, like Dividoc, also produces geolocation and
+a password-secured archive of the pictures taken. The ultimate goal of the operation is to
+assist with victim traceability from discovery to disposal.
+
+- **DiviX-Server** : A web server (NodeJS, VueJS, MySQL, Docker) that collects the data gathered by the Android applications and allows to filter and sort cases (victims) by age, sex, date or location, displays the cases location on a map (OpenStreetMap) and automatically extracts password-protected archives and populate the database. This sub-project is no longer maintened and was never deployed because due to potential security issues that were not examined yet.
+
+## Personnal work
+
+Dividoc and Divimap were started by 7 students in third-year university (from the upper promotion, in 2020) and many of the specifications were respected. The year after, my professor asked me to continue the project with 6 other students of my choice. During 3 months, I worked with other as the group leader, focusing on :
+- Correct existings bugs
+- Add new features
+- Create the web server
+
+At the end of this, we had a solid project but not good enough to go to a production.
+Six months later (march 2022), my professor and I decided I could, alone, do a complete refactoring of the Android apps. Then I focused on :
+- Improving the programming logic
+- Remodeling and implementing the UI, based on Material Design and the basic principles of the UI field
+- Suppressing warning and deprecated functions
+- Commenting the code and correcting bugs
+
+## Timeline
+
+*End of July 2022 :* First tests in the field using Dividoc in Afghanistan (heroin overdoses due to poverty)
