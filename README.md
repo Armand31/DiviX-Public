@@ -23,7 +23,7 @@ information registered during the burial/disposal process.
 a password-secured archive of the pictures taken. The ultimate goal of the operation is to
 assist with victim traceability from discovery to disposal.
 
-- **DiviX-Server** : A web server (NodeJS, VueJS, MySQL, Docker) that collects the data gathered by the Android applications and allows to filter and sort cases (victims) by age, sex, date or location, displays the cases location on a map (OpenStreetMap) and automatically extracts password-protected archives and populate the database. This sub-project is no longer maintened and was never deployed because due to potential security issues that were not examined yet.
+- **DiviX-Server** : A web server (NodeJS, VueJS, MySQL, Docker) that collects the data gathered by the Android applications and allows to filter and sort cases (victims) by age, sex, date or location, displays the cases location on a map (OpenStreetMap) and automatically extracts password-protected archives and populate the database. This sub-project is no longer maintened and was never deployed due to potential security issues that were not examined.
 
 ## Personal contribution
 
