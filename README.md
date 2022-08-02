@@ -4,14 +4,14 @@
 
 ## Supervisors
 
-**Jose Pablo Baraybar Do Carmo** : Conceiver of the project, Ph.D., anthropologist at the International Committee of the Red Cross (ICRC)-Paris Regional Delegation, Forensic Department - [Contact : jpbaraybar@icrc.org](mailto:jpbaraybar@icrc.org)
+**Jose Pablo Baraybar Do Carmo** : Conceiver of the project, Ph.D., anthropologist at the International Committee of the Red Cross (ICRC) - Paris Regional Delegation, Forensic Department - [Contact : jpbaraybar@icrc.org](mailto:jpbaraybar@icrc.org)
 
 **Pierre François** : Student supervisor, Ph.D., researcher and professor at INSA Lyon - [Contact : pierre.francois@insa-lyon.fr](mailto:pierre.francois@insa-lyon.fr)
 
 ## Presentation
 
 DiviX project is a set of tools used for victims identification in war, migration and distaster zones accros the world.
-Initiated at INSA Lyon in collaboration with the Internation Committee of the Red Cross (based in Geneva), the DiviX project is composed of :
+Initiated at INSA Lyon in collaboration with the International Committee of the Red Cross (based in Geneva), the DiviX project is composed of :
 
 - **Dividoc (Disaster Victim Documentation)** : An Android app (XML and Java) designed to assist with the documentation of dead bodies
 in the field. The application produces a password-secured archive containing basic
