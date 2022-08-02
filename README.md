@@ -25,6 +25,15 @@ assist with victim traceability from discovery to disposal.
 
 - **DiviX-Server** : A web server (NodeJS, VueJS, MySQL, Docker) that collects the data gathered by the Android applications and allows to filter and sort cases (victims) by age, sex, date or location, displays the cases location on a map (OpenStreetMap) and automatically extracts password-protected archives and populate the database. This sub-project is no longer maintened and was never deployed due to potential security issues that were not examined.
 
+<p align="center">
+<i>Screenshots of Dividoc, from left to right : Main menu, victim identification form and photo gallery view</i>
+</p>
+<p align="center">
+  <img src="/images/main_menu.png" width="200" />
+  <img src="/images/tag_form.png" width="200" /> 
+  <img src="/images/photo_gallery_view.png" width="200" />
+</p>
+
 ## Personal contribution
 
 Dividoc and Divimap were started by 7 students in third-year university (from the upper promotion, in 2020) and many of the specifications were respected. The year after, my professor asked me to continue the project with 6 other students of my choice. During 3 months, I worked with other as the group leader, focusing on :
